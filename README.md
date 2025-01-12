@@ -47,7 +47,7 @@ The **Chatboot Application** is a browser-based chatbot that utilizes IndexedDB 
 
 ## Technical Overview
 
-- **Frontend:** Built with modern web technologies, such as React or vanilla JavaScript.
+- **Frontend:** Built in React and other libraries
 - **IndexedDB Integration:** Manages chat data storage and retrieval for each user session.
 - **State Management:** Leverages browser APIs for dynamic session handling.
 - **Styling:** Designed with responsive CSS for optimal usability across devices.
